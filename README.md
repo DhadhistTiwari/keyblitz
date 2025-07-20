@@ -26,7 +26,11 @@
 - 🎨 Font Awesome (UI Icons)
 
 ---
+## 📸 Preview
 
+![KeyBlitz Screenshot](preview.png)
+
+---
 ## 📦 Getting Started
 
 ```bash
