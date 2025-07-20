@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+html,body{
+  overscroll-behavior: none;
+}
+body, html, #root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+button{
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+}
+button:hover{
+  color: #fff;
+  transition: color 0.2s ease-in-out;
+}
+.endbtn{
+  cursor: not-allowed;
+}
+.helpDiv{
+  position: absolute;
+  display: none;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;  
+  overflow-y: auto;
+}
+.duration-btn.active{
+  background-color: #1a1a1a;
+  scale: 1.1;
+  color: #fff;
+  transition: background-color 0.3s ease-in-out, scale 0.3s ease-in-out;
+}
+i:hover{
+  animation: rotate 0.3s linear;
+}
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
