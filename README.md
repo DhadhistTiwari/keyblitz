@@ -17,6 +17,12 @@
 
 ---
 
+## 🔗 Live Demo
+
+👉 [Play the Game](https://https://dhadhisttiwari.github.io/keyblitz//)
+
+---
+
 ## 🛠️ Tech Stack
 
 - ⚛️ React (with Hooks and Refs)
