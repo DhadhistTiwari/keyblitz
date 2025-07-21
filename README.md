@@ -19,7 +19,7 @@
 
 ## 🔗 Live Demo
 
-👉🏼[Test your typing.](https://dhadhisttiwari.github.io/keyblitz//)
+👉🏼[Test your typing.](https://dhadhisttiwari.github.io/keyblitz/)
 
 ---
 
