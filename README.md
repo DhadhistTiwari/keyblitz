@@ -19,7 +19,7 @@
 
 ## 🔗 Live Demo
 
-👉 [Play the Game](https://https://dhadhisttiwari.github.io/keyblitz//)
+👉🏼[Test your typing. Click to visit.](https://https://dhadhisttiwari.github.io/keyblitz//)
 
 ---
 
